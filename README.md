@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Ziwei Hu
-- 👀 I have a B.S in Computer Science from UMAss Amherst
-- 🌱 I’m currently enrolled in online CS Master's degree at UMAss Amherst
-- 💞️ I’m looking for a software engineer internship or full time position
-- 📫 Please reach out to me at ziweihu98@gmail.com
+Hi everyone! I'm a freelancer developer. If you need a website for your small business, now it's the time!
+Contact me at my email: Ziweihu98@gmail.com
 
 <!---
 ZiweiHu1015/ZiweiHu1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
